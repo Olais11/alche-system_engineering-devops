@@ -1,5 +1,1 @@
-# ALCHE System Engineering Devops
-* SSH
-* Web server
-* Load balancer
-* Firewall
+Project for web stack debugging task 0
